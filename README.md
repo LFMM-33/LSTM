@@ -1,2 +1,2 @@
 # LSTM
-LSTM network fro our project
+LSTM network for our project
